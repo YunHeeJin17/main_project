@@ -1,1 +1,2 @@
 main-project : submodul_test
+main_project : add message
